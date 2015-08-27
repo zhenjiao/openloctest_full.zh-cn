@@ -3,8 +3,8 @@ articles/cdn/cdn-cloud-service-with-cdn.md
 articles/cdn/cdn-create-a-storage-account-with-cdn.md
 articles/cdn/cdn-create-new-endpoint.md
 articles/cdn/cdn-how-to-restrict-access-by-country.md
-articles/cdn/cdn-how-to-use-cdn.md
 articles/cdn/cdn-how-to-use.md
+articles/cdn/cdn-how-to-use-cdn.md
 articles/cdn/cdn-manage-expiration-of-blob-content.md
 articles/cdn/cdn-manage-expiration-of-cloud-service-content.md
 articles/cdn/cdn-map-content-to-custom-domain.md
@@ -44,11 +44,11 @@ articles/cdn/media/cdn-cloud-service-with-cdn/cdn-2-home-page.PNG
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-5-memegenerator.PNG
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-6-addview.PNG
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-7-configureview.PNG
-articles/cdn/media/cdn-cloud-service-with-cdn/cdn-cs-1-new-project.PNG
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-cs-10-createcdn.png
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-cs-11-disablequerya.png
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-cs-12-disablequeryb.png
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-cs-13-testcdn.png
+articles/cdn/media/cdn-cloud-service-with-cdn/cdn-cs-1-new-project.PNG
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-cs-2-select-role.PNG
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-cs-3-mvc-template.PNG
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-cs-4-publish-a.png
@@ -63,9 +63,9 @@ articles/cdn/media/cdn-serve-content-from-cdn-in-your-web-application/cdn-static
 articles/cdn/media/cdn-serve-content-from-cdn-in-your-web-application/cdn-static-10.PNG
 articles/cdn/media/cdn-serve-content-from-cdn-in-your-web-application/cdn-static-11-blob.PNG
 articles/cdn/media/cdn-serve-content-from-cdn-in-your-web-application/cdn-static-11-cdn.PNG
+articles/cdn/media/cdn-serve-content-from-cdn-in-your-web-application/cdn-static-2.PNG
 articles/cdn/media/cdn-serve-content-from-cdn-in-your-web-application/cdn-static-2-enablequerya.PNG
 articles/cdn/media/cdn-serve-content-from-cdn-in-your-web-application/cdn-static-2-enablequeryb.PNG
-articles/cdn/media/cdn-serve-content-from-cdn-in-your-web-application/cdn-static-2.PNG
 articles/cdn/media/cdn-serve-content-from-cdn-in-your-web-application/cdn-static-3-fail.PNG
 articles/cdn/media/cdn-serve-content-from-cdn-in-your-web-application/cdn-static-3-succeed.PNG
 articles/cdn/media/cdn-serve-content-from-cdn-in-your-web-application/cdn-static-4.PNG
