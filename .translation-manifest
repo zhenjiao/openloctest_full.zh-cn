@@ -1,11 +1,12 @@
 articles/cdn/cdn-caching-policy.md
+articles/cdn/cdn-create-a-storage-account-with-cdn-new.md
 articles/cdn/cdn-create-new-endpoint.md
 articles/cdn/cdn-how-to-restrict-access-by-country.md
 articles/cdn/cdn-how-to-use.md
 articles/cdn/cdn-how-to-use-cdn.md
 articles/cdn/cdn-manage-expiration-of-blob-content.md
 articles/cdn/cdn-manage-expiration-of-cloud-service-content.md
-articles/cdn/cdn-serve-content-from-cdn-in-your-web-application.md
+articles/cdn/cdn-overview-new-new-new.md
 articles/service-bus/automation-manage-service-bus.md
 articles/service-bus/cloud-services-dotnet-hybrid-app-using-service-bus-relay.md
 articles/service-bus/cloud-services-dotnet-multi-tier-app-using-service-bus-queues.md
@@ -34,6 +35,7 @@ articles/service-bus/service-bus-relay-overview.md
 articles/service-bus/service-bus-relay-rest-tutorial.md
 articles/service-bus/service-bus-ruby-how-to-use-queues.md
 articles/service-bus/service-bus-ruby-how-to-use-topics-subscriptions.md
+articles/cdn/media/cdn-cloud-service-with-cdn/5star2.png
 articles/cdn/media/cdn-cloud-service-with-cdn/5star-new.png
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-1-browser-access.PNG
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-2-home-page.PNG
