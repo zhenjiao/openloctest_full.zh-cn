@@ -6,6 +6,7 @@ articles/cdn/cdn-how-to-use-cdn.md
 articles/cdn/cdn-manage-expiration-of-blob-content.md
 articles/cdn/cdn-manage-expiration-of-cloud-service-content.md
 articles/cdn/cdn-map-content-to-custom-domain.md
+articles/cdn/cdn-overview-new.md
 articles/cdn/cdn-serve-content-from-cdn-in-your-web-application.md
 articles/service-bus/automation-manage-service-bus.md
 articles/service-bus/cloud-services-dotnet-hybrid-app-using-service-bus-relay.md
@@ -35,6 +36,8 @@ articles/service-bus/service-bus-relay-overview.md
 articles/service-bus/service-bus-relay-rest-tutorial.md
 articles/service-bus/service-bus-ruby-how-to-use-queues.md
 articles/service-bus/service-bus-ruby-how-to-use-topics-subscriptions.md
+articles/cdn/media/cdn-cloud-service-with-cdn/5star.png
+articles/cdn/media/cdn-cloud-service-with-cdn/5star-new.png
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-1-browser-access.PNG
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-2-home-page.PNG
 articles/cdn/media/cdn-cloud-service-with-cdn/cdn-5-memegenerator.PNG
